@@ -35,9 +35,20 @@ Discipline beats motivation — progress happens quietly.
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sonukum12602663)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonukumarray1009@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/Sonukum12602663" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="28" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sonukumarray1009@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="28" />
+  </a>
+</p>
+
 
 ---
 
