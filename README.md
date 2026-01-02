@@ -3,31 +3,25 @@
 ---
 
 # 💫 About Me
-
 I am a **Web Developer** focused on building clean, scalable, and maintainable applications.  
 I enjoy problem solving, learning modern technologies, and working on real-world projects.
-
 ### 💼 I’m currently working on
 - Improving **problem-solving skills (DSA)**
 - Building **full-stack projects** to gain real-world development experience
-
 ### 🌱 I’m currently learning
 - **Full-stack development**
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Java, Node.js
 - **Databases:** MySQL, MongoDB
-
 ### 💬 Ask me about
 - Web development (frontend & backend fundamentals)
 - Java and data structures
 - REST APIs and client–server architecture
 - Problem solving and logical thinking
 - Writing clean and maintainable code
-
 ### 🙋 I’m looking for help with
 - Backend architecture and best practices
 - Writing clean, scalable full-stack code
-
 ### ⚡ Fun fact
 Discipline beats motivation — progress happens quietly.
 
@@ -54,68 +48,43 @@ Discipline beats motivation — progress happens quietly.
 ---
 ## Tech Stack
 
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=typescript" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="32" />
-</p>
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="28"/>
+    </td>
+  </tr>
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="32" />
-</p>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="28"/>
+    </td>
+  </tr>
 
-### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="32" />
-</p>
+  <tr>
+    <td><strong>Backend & Databases</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="28"/>
+    </td>
+  </tr>
 
-### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=render" height="32" />
-</p>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="28"/>
+    </td>
+  </tr>
 
-### Design Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=canva" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=framer" height="32" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spline" height="32" />
-</p>
+  <tr>
+    <td><strong>Design Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,canva,framer,spline" height="28"/>
+    </td>
+  </tr>
+</table>
+
 
 
 ---
@@ -147,23 +116,15 @@ Discipline beats motivation — progress happens quietly.
 <p align="left">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width=""
+    width="420"
     alt="Neon Cyber Typing Animation"
   />
 </p>
-
-<!-- Small Hacker-Style Image (Text Only: Full Stack Developer) -->
-
 <p align="left">
   <img
-    src="https://raw.githubusercontent.com/sonu93418/sonu93418/main/hello-world-fullstack.png"
-    width="140"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=00FF99&background=00000000&width=260&lines=Full+Stack+Developer"
     alt="Full Stack Developer"
   />
-</p>
-
-<p align="left">
-  <strong>Full Stack Developer</strong>
 </p>
 
 ---
