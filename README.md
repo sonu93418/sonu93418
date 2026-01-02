@@ -47,6 +47,7 @@ Discipline beats motivation — progress happens quietly.
 
 ---
 ## Tech Stack
+## Tech Stack
 
 <table>
   <tr>
@@ -85,8 +86,6 @@ Discipline beats motivation — progress happens quietly.
   </tr>
 </table>
 
-
-
 ---
 
 ## 📊 GitHub Stats
@@ -116,7 +115,7 @@ Discipline beats motivation — progress happens quietly.
 <p align="left">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="420"
+    width="140"
     alt="Neon Cyber Typing Animation"
   />
 </p>
@@ -128,5 +127,8 @@ Discipline beats motivation — progress happens quietly.
 </p>
 
 ---
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sonu93418" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=sonu93418&icon=0&color=0)](https://visitcount.itsvg.in)
+
