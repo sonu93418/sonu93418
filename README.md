@@ -1,11 +1,4 @@
-<!-- 🔥 Animated Neon / Cyber Typing Banner -->
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="480"
-    alt="Neon Cyber Typing Animation"
-  />
-</p>
+
 
 ---
 
@@ -91,7 +84,14 @@ Discipline beats motivation — progress happens quietly.
 ![](https://github-readme-stats.vercel.app/api?username=sonu93418&theme=tokyonight&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true)
-
+<!-- 🔥 Animated Neon / Cyber Typing Banner -->
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="280"
+    alt="Neon Cyber Typing Animation"
+  />
+</p>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sonu93418&icon=0&color=0)](https://visitcount.itsvg.in)
