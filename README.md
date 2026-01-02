@@ -1,5 +1,18 @@
-# 💫 About Me:
-💼 I’m currently working on<br><br>Improving problem-solving skills (DSA)<br><br>Building full-stack projects to gain real-world development experience<br><br>🌱 I’m currently learning<br><br>Full-stack development<br><br>Frontend fundamentals: HTML, CSS, JavaScript, React<br> <br>Backend fundamentals: Java, Node.js<br><br>Databases: MySQL, MongoDB<br><br>💬 Ask me about<br><br>Web development (frontend & backend fundamentals)<br><br>Java and data structures<br><br>REST APIs and client–server architecture<br><br>Problem solving and logical thinking<br><br>Writing clean and maintainable code<br><br>⚡ Fun fact<br><br>I believe discipline beats motivation — progress happens quietly🙋 I’m looking for help with<br><br>Backend architecture and best practices<br><br>Writing clean, scalable full-stack code .Full-stack development<br><br>Frontend technologies: HTML, CSS, JavaScript, React<br><br>Backend technologies: Java, Node.js<br><br>Databases: MySQL, MongoDB
+💼 <b>Currently working on</b><br>
+Problem-solving (DSA) and building full-stack projects.<br><br>
+
+🌱 <b>Currently learning</b><br>
+Full-stack development — HTML, CSS, JavaScript, React, Java, Node.js, MySQL, MongoDB.<br><br>
+
+💬 <b>Ask me about</b><br>
+Web development (frontend & backend), Java & DSA, REST APIs, client–server architecture, clean code.<br><br>
+
+🙋 <b>Looking for help with</b><br>
+Backend architecture and scalable full-stack best practices.<br><br>
+
+⚡ <b>Fun fact</b><br>
+Discipline beats motivation — progress happens quietly.
+
 
 
 ## 🌐 Socials:
