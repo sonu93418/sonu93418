@@ -35,16 +35,24 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 ## 🛠 Tech Stack
 
 ### 🔹 Languages
-<img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="32"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="32"/>
+</p>
 
 ### 🔹 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="32"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="32"/>
+</p>
 
 ### 🔹 Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32"/>
+</p>
 
 ### 🔹 Developer Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="32"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="32"/>
+</p>
 
 ---
 
@@ -68,20 +76,17 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ---
 
-## 📈 Contribution Activity (Graph)
+## 📈 Contribution Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
   />
 </p>
 
-> This graph shows my **coding activity and learning consistency** over time.
-
 ---
 
-## 🎯 GitHub Highlights (Unique & Cool)
+## 🎯 GitHub Highlights
 
 <p align="center">
   <img
@@ -99,8 +104,6 @@ I build clean, maintainable web applications and enjoy solving real-world proble
     width="48%"
   />
 </p>
-
-> These cards give a **clean, visual summary** of my GitHub activity.
 
 ---
 
