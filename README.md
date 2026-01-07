@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sonu Yadav
+# 👋 Hi, I'm Sonu  Kumar Ray
 
 <table width="100%" cellpadding="12">
 <tr>
@@ -54,38 +54,33 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ---
 
-<!-- TECH STACK (PROPERLY HORIZONTAL) -->
-<table width="100%" cellpadding="12">
+## 📊 GitHub Stats & Languages
+
+<table width="100%">
 <tr>
-<td>
 
-### 🛠 Tech Stack
+<td width="50%" align="center">
 
-<p>
-  <b>Languages:</b>
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="30"/>
-</p>
-
-<p>
-  <b>Frontend:</b>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="30"/>
-</p>
-
-<p>
-  <b>Backend & Databases:</b>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="30"/>
-</p>
-
-<p>
-  <b>Developer Tools:</b>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="30"/>
-</p>
+### 📊 GitHub Stats
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
 </td>
+
+<td width="50%" align="center">
+
+### 📚 Top Languages
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
+
+</td>
+
 </tr>
 </table>
-
----
 
 <!-- GITHUB STATS (STABLE & WORKING) -->
 <table width="100%" cellpadding="12">
@@ -93,46 +88,26 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 <td width="50%" valign="top">
 
-### 📊 GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="180"
-/>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Top Languages
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
-</td>
-
-</tr>
-</table>
-
----
 
 <!-- DESIGN + DEV MODE -->
 <table width="100%" cellpadding="12">
 <tr>
 
 <td width="65%" valign="top">
+## 🎨 Frontend & Design Tools
 
-### 🎨 Frontend & Design Tools
-<img src="https://skillicons.dev/icons?i=figma,canva,framer" height="34"/>
-<img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="34"/>
-<img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="34"/>
-<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="34"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,canva,framer" height="36"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="36"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="36"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="36"/>
+</p>
 
 <p><i>UI/UX • Prototyping • Motion Design • Micro-interactions</i></p>
 
-</td>
-
-<td width="35%" valign="top">
 
 ### 👨‍💻 Developer Mode
 <img
