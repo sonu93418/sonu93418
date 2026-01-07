@@ -2,7 +2,7 @@
 
 <table width="100%" cellpadding="12">
 <tr>
-<td colspan="2">
+<td>
 
 ### 💻 Full Stack Web Developer | Clean Code • Scalable Apps
 
@@ -19,7 +19,7 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 <table width="100%" cellpadding="12">
 <tr>
 
-<td width="30%" valign="top">
+<td width="35%" valign="top">
 
 ### 🌐 Connect With Me
 <p>
@@ -38,12 +38,14 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 </td>
 
-<td width="70%" valign="top">
+<td width="65%" valign="top">
 
 ### 🚀 What I’m Doing
-- Practicing **Data Structures & Algorithms**
-- Building **real-world full-stack projects**
-- Writing **clean, scalable code**
+<ul>
+  <li>Practicing <b>Data Structures & Algorithms</b></li>
+  <li>Building <b>real-world full-stack projects</b></li>
+  <li>Writing <b>clean, scalable code</b></li>
+</ul>
 
 </td>
 
@@ -52,30 +54,32 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ---
 
-<!-- TECH STACK CARD (FIXED HORIZONTAL) -->
+<!-- TECH STACK (PROPERLY HORIZONTAL) -->
 <table width="100%" cellpadding="12">
 <tr>
 <td>
 
 ### 🛠 Tech Stack
 
-<b>Languages:</b>
-<img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="30"/>
+<p>
+  <b>Languages:</b>
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="30"/>
+</p>
 
-<br/><br/>
+<p>
+  <b>Frontend:</b>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="30"/>
+</p>
 
-<b>Frontend:</b>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="30"/>
+<p>
+  <b>Backend & Databases:</b>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="30"/>
+</p>
 
-<br/><br/>
-
-<b>Backend & Databases:</b>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="30"/>
-
-<br/><br/>
-
-<b>Developer Tools:</b>
-<img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="30"/>
+<p>
+  <b>Developer Tools:</b>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="30"/>
+</p>
 
 </td>
 </tr>
@@ -83,7 +87,7 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ---
 
-<!-- ROW 2 (FIXED GRAPHS) -->
+<!-- GITHUB STATS (STABLE & WORKING) -->
 <table width="100%" cellpadding="12">
 <tr>
 
@@ -91,8 +95,8 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ### 📊 GitHub Stats
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="180"
 />
 
 </td>
@@ -102,7 +106,7 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 ### 📚 Top Languages
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true"
-  height="170"
+  height="180"
 />
 
 </td>
@@ -124,8 +128,7 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="34"/>
 <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="34"/>
 
-<br/>
-_UI/UX • Prototyping • Motion Design • Micro-interactions_
+<p><i>UI/UX • Prototyping • Motion Design • Micro-interactions</i></p>
 
 </td>
 
