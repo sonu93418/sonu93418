@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sonu Kumar Ray
+# 👋 Hi, I'm Sonu Yadav
 
 <table width="100%" cellpadding="12">
 <tr>
@@ -52,29 +52,29 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ---
 
-<!-- TECH STACK CARD -->
+<!-- TECH STACK CARD (FIXED HORIZONTAL) -->
 <table width="100%" cellpadding="12">
 <tr>
 <td>
 
 ### 🛠 Tech Stack
 
-**Languages**  
+<b>Languages:</b>
 <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="30"/>
 
 <br/><br/>
 
-**Frontend**  
+<b>Frontend:</b>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="30"/>
 
 <br/><br/>
 
-**Backend & Databases**  
+<b>Backend & Databases:</b>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="30"/>
 
 <br/><br/>
 
-**Developer Tools**  
+<b>Developer Tools:</b>
 <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="30"/>
 
 </td>
@@ -83,7 +83,7 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ---
 
-<!-- ROW 2 -->
+<!-- ROW 2 (FIXED GRAPHS) -->
 <table width="100%" cellpadding="12">
 <tr>
 
@@ -91,8 +91,8 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ### 📊 GitHub Stats
 <img
-  src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight"
-  height="160"
+  src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
 />
 
 </td>
@@ -101,8 +101,8 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ### 📚 Top Languages
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight"
-  height="160"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
 />
 
 </td>
@@ -141,6 +141,7 @@ _UI/UX • Prototyping • Motion Design • Micro-interactions_
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=900&color=00FF99&background=00000000&width=260&lines=Full+Stack+Developer;Clean+Code;Scalable+Systems"
+  alt="Typing Animation"
 />
 
 </td>
