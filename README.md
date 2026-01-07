@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sonu Yadav
+# 👋 Hi, I'm Sonu Kumar Ray
 
 ### 💻 Full Stack Web Developer | Clean Code • Scalable Apps
 
