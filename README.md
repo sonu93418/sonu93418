@@ -1,64 +1,70 @@
 # 👋 Hi, I'm Sonu Kumar Ray
 
-### 💻 Full Stack Web Developer | Clean Code • Scalable Apps
+<p align="center">
+  <strong>💻 Full Stack Web Developer | Clean Code • Scalable Apps</strong>
+</p>
 
-I build clean, maintainable web applications and enjoy solving real-world problems.  
-**Consistency over motivation. Progress every day.**
+<p align="center">
+  I build clean, maintainable web applications and enjoy solving real-world problems.<br/>
+  <strong>Consistency over motivation. Progress every day.</strong>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/feed/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/sonuXdev">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="42"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sonukumarray1009@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
 </p>
 
 ---
 
 ## 🚀 What I’m Doing
-- Practicing **Data Structures & Algorithms**
-- Building **real-world full-stack projects**
-- Writing **clean, scalable code**
+
+<p align="center">
+  🔹 Practicing <strong>Data Structures & Algorithms</strong><br/>
+  🔹 Building <strong>real-world full-stack projects</strong><br/>
+  🔹 Writing <strong>clean, scalable code</strong>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🔹 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="32"/>
+### 💡 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="40"/>
 </p>
 
-### 🔹 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="32"/>
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="40"/>
 </p>
 
-### 🔹 Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32"/>
+### ⚙️ Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="40"/>
 </p>
 
-### 🔹 Developer Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="32"/>
+### 🧰 Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Overview
 
-### 🔹 GitHub Stats
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight"
@@ -66,7 +72,6 @@ I build clean, maintainable web applications and enjoy solving real-world proble
   />
 </p>
 
-### 🔹 Top Languages
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight"
@@ -76,11 +81,11 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&theme=tokyo-night"
   />
 </p>
 
@@ -94,29 +99,18 @@ I build clean, maintainable web applications and enjoy solving real-world proble
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonu93418&theme=tokyonight"
-    width="48%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonu93418&theme=tokyonight"
-    width="48%"
-  />
-</p>
-
 ---
 
 ## 🎨 Frontend & Design Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,framer" height="42"/>
+  <img src="https://skillicons.dev/icons?i=figma,canva,framer" height="44"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="42"/>
+  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="44"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="42"/>
+  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="44"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="42"/>
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="44"/>
 </p>
 
 <p align="center">
@@ -127,16 +121,16 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ## 👨‍💻 Developer Mode
 
-<p align="left">
+<p align="center">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="160"
+    width="180"
   />
 </p>
 
-<p align="left">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00FF99&background=00000000&width=460&lines=Full+Stack+Web+Developer;Clean+Code+%7C+Scalable+Systems;Consistent+Daily+Growth"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00FF99&background=00000000&width=500&lines=Full+Stack+Web+Developer;Clean+Code+%7C+Scalable+Systems;Consistent+Daily+Growth"
   />
 </p>
 
