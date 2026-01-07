@@ -1,29 +1,32 @@
+# 💫 About Me
 
+Hi 👋, I’m **Sonu Yadav**, a passionate **Full Stack Web Developer** focused on building clean, scalable, and maintainable applications.  
+I enjoy problem-solving, learning modern technologies, and working on real-world projects.
 
 ---
 
-# 💫 About Me
-I am a **Web Developer** focused on building clean, scalable, and maintainable applications.  
-I enjoy problem solving, learning modern technologies, and working on real-world projects.
 ### 💼 I’m currently working on
 - Improving **problem-solving skills (DSA)**
-- Building **full-stack projects** to gain real-world development experience
+- Building **full-stack projects** for real-world experience
+
 ### 🌱 I’m currently learning
 - **Full-stack development**
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
 - **Backend:** Java, Node.js
 - **Databases:** MySQL, MongoDB
+
 ### 💬 Ask me about
-- Web development (frontend & backend fundamentals)
-- Java and data structures
-- REST APIs and client–server architecture
-- Problem solving and logical thinking
-- Writing clean and maintainable code
+- Web development (frontend & backend)
+- Java and Data Structures
+- REST APIs & client–server architecture
+- Writing clean, maintainable code
+
 ### 🙋 I’m looking for help with
-- Backend architecture and best practices
-- Writing clean, scalable full-stack code
+- Backend architecture & best practices
+- Writing scalable full-stack applications
+
 ### ⚡ Fun fact
-Discipline beats motivation — progress happens quietly.
+**Discipline beats motivation — progress happens quietly.**
 
 ---
 
@@ -34,7 +37,7 @@ Discipline beats motivation — progress happens quietly.
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/Sonukum12602663" target="_blank">
+  <a href="https://x.com/sonuXdev" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -43,11 +46,9 @@ Discipline beats motivation — progress happens quietly.
   </a>
 </p>
 
-
-
 ---
-## Tech Stack
-## Tech Stack
+
+## 🛠 Tech Stack
 
 <table>
   <tr>
@@ -56,28 +57,24 @@ Discipline beats motivation — progress happens quietly.
       <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="28"/>
     </td>
   </tr>
-
   <tr>
     <td><strong>Frontend</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="28"/>
     </td>
   </tr>
-
   <tr>
     <td><strong>Backend & Databases</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="28"/>
     </td>
   </tr>
-
   <tr>
     <td><strong>Tools & Platforms</strong></td>
     <td>
       <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="28"/>
     </td>
   </tr>
-
   <tr>
     <td><strong>Design Tools</strong></td>
     <td>
@@ -89,7 +86,6 @@ Discipline beats motivation — progress happens quietly.
 ---
 
 ## 📊 GitHub Stats
-## GitHub Stats
 
 <p align="left">
   <img
@@ -110,25 +106,27 @@ Discipline beats motivation — progress happens quietly.
   />
 </p>
 
+---
 
-<!-- 🔥 Animated Neon / Cyber Typing Banner -->
+## 🚀 Developer Mode
+
 <p align="left">
   <img
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="140"
-    alt="Neon Cyber Typing Animation"
+    width="160"
+    alt="Coding Animation"
   />
 </p>
+
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=00FF99&background=00000000&width=260&lines=Full+Stack+Developer"
-    alt="Full Stack Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00FF99&background=00000000&width=380&lines=Full+Stack+Web+Developer;Clean+Code+%7C+Scalable+Apps;Learning+Every+Day"
+    alt="Typing Animation"
   />
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sonu93418" />
+  <img src="https://visitcount.itsvg.in/api?id=sonu93418&label=Profile%20Views&color=0&icon=5&pretty=true" />
 </p>
-
-
