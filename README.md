@@ -1,29 +1,25 @@
-# 👋 Hi, I'm Sonu Kumar Ray
+# 👋 Hi, I'm Sonu Yadav
 
-<p align="center">
+<p align="left">
   <strong>💻 Full Stack Web Developer | Clean Code • Scalable Apps</strong>
 </p>
 
-<p align="center">
-  I build clean, maintainable web applications and enjoy solving real-world problems.<br/>
-  <strong>Consistency over motivation. Progress every day.</strong>
-</p>
+I build clean, maintainable web applications and enjoy solving real-world problems.  
+**Consistency over motivation. Progress every day.**
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/feed/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/sonuXdev">
-    <img src="https://skillicons.dev/icons?i=twitter" height="42"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:sonukumarray1009@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -31,71 +27,57 @@
 
 ## 🚀 What I’m Doing
 
-<p align="center">
-  🔹 Practicing <strong>Data Structures & Algorithms</strong><br/>
-  🔹 Building <strong>real-world full-stack projects</strong><br/>
-  🔹 Writing <strong>clean, scalable code</strong>
-</p>
+- Practicing **Data Structures & Algorithms**
+- Building **real-world full-stack projects**
+- Writing **clean, scalable code**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💡 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" height="40"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" height="40"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="40"/>
-</p>
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🧰 Developer Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,aws,vercel,render" height="40"/>
-</p>
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0468D7?style=flat-square&logo=render&logoColor=white)
 
 ---
 
 ## 📊 GitHub Overview
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight"
-    height="180"
+    height="170"
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight"
-    height="150"
-  />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&theme=tokyo-night"
-  />
-</p>
-
----
-
-## 🎯 GitHub Highlights
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonu93418&theme=tokyonight"
+    height="140"
   />
 </p>
 
@@ -103,39 +85,25 @@
 
 ## 🎨 Frontend & Design Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva,framer" height="44"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="44"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="44"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="44"/>
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Lottie](https://img.shields.io/badge/LottieFiles-00DDB3?style=flat-square&logo=lottiefiles&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
 
-<p align="center">
-  <sub>UI/UX • Prototyping • Motion Design • Micro-interactions</sub>
-</p>
+_UI/UX • Prototyping • Motion Design • Micro-interactions_
 
 ---
 
 ## 👨‍💻 Developer Mode
 
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    width="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=00FF99&background=00000000&width=500&lines=Full+Stack+Web+Developer;Clean+Code+%7C+Scalable+Systems;Consistent+Daily+Growth"
-  />
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160"/>
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://visitcount.itsvg.in/api?id=sonu93418&label=Profile%20Views&pretty=true"/>
 </p>
