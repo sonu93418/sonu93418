@@ -142,6 +142,30 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Learning" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Building" />
+  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100" alt="Debugging" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<b>🔥 Current Focus</b><br>
+<em>Full Stack Development<br>DSA & System Design</em>
+</td>
+<td align="center" width="33%">
+<b>📚 Learning</b><br>
+<em>Advanced Patterns<br>Cloud Architecture</em>
+</td>
+<td align="center" width="33%">
+<b>🎯 Goals</b><br>
+<em>Build 50+ Projects<br>Contribute to Open Source</em>
+</td>
+</tr>
+</table>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
 </p>
 
