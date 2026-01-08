@@ -103,12 +103,6 @@
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=radical&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF99&sideLabels=00FF99&dates=8B949E" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/sonu93418">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true&border_radius=10" alt="Contribution Graph" width="95%"/>
   </a>
@@ -116,11 +110,11 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 🏆 GitHub Trophies
 
-<div align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=-1" alt="GitHub Trophies" />
+</p>
 
 ---
 
