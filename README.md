@@ -44,7 +44,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
 
 ### 💻 Languages
 <p align="center">
@@ -83,6 +85,8 @@
 
 <p align="center"><em>✨ UI/UX • Prototyping • Motion Design • Micro-interactions ✨</em></p>
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -98,9 +102,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sonu93418&theme=dark&background=0D1117&border=00FF99&stroke=00FF99&ring=00FF99&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF99&sideLabels=00FF99&dates=8B949E&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=radical&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=FF6B00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF99&sideLabels=00FF99&dates=8B949E" alt="GitHub Streak Stats" />
+</div>
 
 <br/>
 
@@ -112,11 +116,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
