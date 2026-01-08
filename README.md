@@ -17,16 +17,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sonu-yadav/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/sonuXdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="mailto:sonukumarray1009@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/sonu93418" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -89,23 +89,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=10&border_radius=10"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=8"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=false&margin-w=15" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
@@ -118,9 +118,8 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu93418&label=Profile%20Views&color=00ff99&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sonu93418?label=Followers&style=for-the-badge&color=00ff99&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sonu93418?label=Stars&style=for-the-badge&color=00ff99&labelColor=0d1117" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sonu93418&label=Profile%20Views&color=00ff99&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sonu93418?label=Followers&style=flat-square&color=00ff99" alt="Followers" />
 </div>
 
 <br/>
