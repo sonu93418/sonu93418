@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Funny Coder" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Building+Scalable+%26+Clean+Solutions+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
@@ -142,25 +146,28 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Coding" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Learning" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Building" />
-  <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100" alt="Debugging" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="120" alt="Coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="120" alt="Learning" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="120" alt="Building" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="120" alt="Debugging" />
 </p>
 
-<table align="center">
+<table align="center" width="90%">
 <tr>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"><br>
 <b>🔥 Current Focus</b><br>
-<em>Full Stack Development<br>DSA & System Design</em>
+<sub>Full Stack Development<br>DSA & System Design</sub>
 </td>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"><br>
 <b>📚 Learning</b><br>
-<em>Advanced Patterns<br>Cloud Architecture</em>
+<sub>Advanced Patterns<br>Cloud Architecture</sub>
 </td>
 <td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"><br>
 <b>🎯 Goals</b><br>
-<em>Build 50+ Projects<br>Contribute to Open Source</em>
+<sub>Build 50+ Projects<br>Contribute to Open Source</sub>
 </td>
 </tr>
 </table>
