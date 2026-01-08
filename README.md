@@ -1,22 +1,37 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF99&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sonu+Kumar+Ray;Full+Stack+Web+Developer+%F0%9F%92%BB;Clean+Code+%E2%80%A2+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Sonu%20Kumar%20Ray&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Building+Scalable+%26+Clean+Solutions+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>I build clean, maintainable web applications and enjoy solving real-world problems.</em><br>
-  <strong>Consistency over motivation. Progress every day.</strong>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Developer Animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Clean+Code+%E2%80%A2+Best+Practices+%E2%80%A2+Scalable+Architecture+%E2%9C%A8;%F0%9F%92%A1+Problem+Solver+%E2%80%A2+Creative+Thinker+%E2%80%A2+Fast+Learner+%F0%9F%92%A1;%F0%9F%93%88+Consistency+Over+Motivation+%E2%80%A2+Daily+Progress+%F0%9F%93%88" alt="Subtitle" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonu93418&label=Profile%20Views&color=00ff99&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sonu93418?label=Followers&style=for-the-badge&color=00ff99&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00ff99?style=for-the-badge" alt="Focus" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
+</p>
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sonu-yadav/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -31,21 +46,52 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
+</p>
 
 ## 🚀 What I'm Doing
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e86f-640d-4810-b6b9-d6eaf4d4eef1.gif" width="400" alt="Activity Banner" />
+</p>
 
-- 💡 Practicing **Data Structures & Algorithms**
-- 🔨 Building **real-world full-stack projects**
-- ✨ Writing **clean, scalable code**
-- 📚 Learning new technologies and best practices
-- 🎯 Contributing to open source
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+<b>DSA & Algorithms</b><br>
+<em>Daily Practice</em>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+<b>Full Stack Projects</b><br>
+<em>Real-World Solutions</em>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+<b>Clean Code</b><br>
+<em>Best Practices</em>
+</td>
+<td align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"><br>
+<b>Open Source</b><br>
+<em>Community Contribution</em>
+</td>
+</tr>
+</table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
+</p>
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Tech Icon" /> <em>Technologies I Work With</em> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32" alt="Tech Icon" />
+</p>
 
 <table>
 <tr>
@@ -85,28 +131,35 @@
 </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats Icon" /> <em>My GitHub Journey</em> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats Icon" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=radical&hide_border=true&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github.com/sonu93418/sonu93418/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
+</p>
 
 ## 💻 Developer Activity
 
@@ -114,11 +167,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Clean+Code+Mindset+%E2%9C%A8;Consistent+Daily+Growth+%F0%9F%93%88;Building+The+Future+%F0%9F%8C%9F" alt="Developer Activity" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu93418&label=Profile%20Views&color=00ff99&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sonu93418?label=Followers&style=flat-square&color=00ff99" alt="Followers" />
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="Coding Cat" />
+</p>
+
+<p align="center">
+  <strong>⚡ Thanks for visiting! Let's build something amazing together! ⚡</strong>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="Footer Line" />
 </p>
 
 <p align="center">
