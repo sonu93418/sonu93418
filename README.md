@@ -56,58 +56,29 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ## 📊 GitHub Stats & Languages
 
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
-
-### 📊 GitHub Stats
 <img
   src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
+  height="180"
 />
 
-</td>
-
-<td width="50%" align="center">
-
-### 📚 Top Languages
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true"
-  height="170"
+  height="160"
 />
 
-</td>
+---
 
-</tr>
-</table>
-
-<!-- GITHUB STATS (STABLE & WORKING) -->
-<table width="100%" cellpadding="12">
-<tr>
-
-<td width="50%" valign="top">
-
-
-<!-- DESIGN + DEV MODE -->
-<table width="100%" cellpadding="12">
-<tr>
-
-<td width="65%" valign="top">
 ## 🎨 Frontend & Design Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,framer" height="36"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="36"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="36"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="36"/>
-</p>
+<img src="https://skillicons.dev/icons?i=figma,canva,framer" height="38"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="38"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="38"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="38"/>
 
-<p><i>UI/UX • Prototyping • Motion Design • Micro-interactions</i></p>
-
+_UI/UX • Prototyping • Motion Design • Micro-interactions_
 
 ### 👨‍💻 Developer Mode
 <img
