@@ -17,16 +17,16 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sonu-yadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/sonuXdev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
   </a>
   <a href="mailto:sonukumarray1009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/sonu93418" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&perline=3" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python&perline=3" />
 </p>
 
 ### 🎨 Frontend
@@ -62,7 +62,7 @@
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&perline=3" />
 </p>
 
 </td>
@@ -104,7 +104,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=algolia&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
