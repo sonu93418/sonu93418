@@ -99,20 +99,28 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/sonu93418">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/sonu93418">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=10&border_radius=10"/>
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak Stats" />
+  <a href="https://github.com/sonu93418">
+    <img src="https://streak-stats.demolab.com?user=sonu93418&theme=radical&hide_border=true&background=0D1117&stroke=00ff99&ring=00ff99&fire=00ff99&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff99&sideLabels=00ff99&dates=c9d1d9&border_radius=10" alt="GitHub Streak Stats" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/sonu93418">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true&border_radius=10" alt="Contribution Graph" width="95%"/>
+  </a>
 </div>
 
 ---
@@ -120,15 +128,19 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+  <a href="https://github.com/sonu93418">
+    <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
 
-## 📈 Contribution Stats
+## 📈 Weekly Development Breakdown
 
 <div align="center">
-  <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=sonu93418&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+  <a href="https://github.com/sonu93418">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sonu93418&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&border_radius=10" alt="Wakatime Stats" />
+  </a>
 </div>
 
 ---
