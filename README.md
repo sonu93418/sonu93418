@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Sonu%20Kumar%20Ray&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header&text=Sonu%20Kumar%20Ray&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=38" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Building+Scalable+%26+Clean+Solutions+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Building+Scalable+%26+Clean+Solutions+%F0%9F%92%BB;Turning+Ideas+Into+Reality+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" alt="Developer Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Developer Animation" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sonu-yadav/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -114,12 +114,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=radical&hide_border=true&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 <p align="center">
@@ -154,17 +149,9 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="Coding Cat" />
+  <strong>🚀 Let's connect and build something amazing together! 🚀</strong>
 </p>
 
 <p align="center">
-  <strong>⚡ Thanks for visiting! Let's build something amazing together! ⚡</strong>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000" alt="Footer Line" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="Footer" />
 </p>
