@@ -99,16 +99,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF99&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -116,7 +120,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -124,7 +128,7 @@
 ## 📈 Contribution Stats
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sonu93418&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
+  <img width="70%" src="https://github-contributor-stats.vercel.app/api?username=sonu93418&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
 ---
@@ -132,15 +136,18 @@
 ## 💻 Developer Activity
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Clean+Code+Mindset+%E2%9C%A8;Consistent+Daily+Growth+%F0%9F%93%88;Building+The+Future+%F0%9F%8C%9F" alt="Developer Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1;Clean+Code+Mindset+%E2%9C%A8;Consistent+Daily+Growth+%F0%9F%93%88;Building+The+Future+%F0%9F%8C%9F" alt="Developer Activity" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu93418&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sonu93418?label=Followers&style=for-the-badge&color=green" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=sonu93418&label=Profile%20Views&color=00ff99&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sonu93418?label=Followers&style=for-the-badge&color=00ff99&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sonu93418?label=Stars&style=for-the-badge&color=00ff99&labelColor=0d1117" alt="Stars" />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
