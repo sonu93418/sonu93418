@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Sonu%20Kumar%20Ray&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Sonu%20Kumar%20Ray&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header" />
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Developer Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200" alt="Developer Animation" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 ## 🚀 What I'm Doing
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer Working" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Developer Working" />
 </p>
 
 - 💡 Practicing **Data Structures & Algorithms** daily
@@ -114,19 +114,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats Icon" /> <em>My GitHub Journey</em> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" alt="Stats Icon" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=radical&hide_border=true&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonu93418&theme=radical&hide_border=true&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=00ff99&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true" alt="Contribution Graph" width="98%"/>
 </p>
 
 <p align="center">
@@ -136,10 +129,10 @@
 ## 💖 Developer Life
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="Coding Love" />
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="Debugging" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Code Works" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Learning" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" alt="Coding Love" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" alt="Debugging" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Code Works" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120" alt="Learning" />
 </p>
 
 <p align="center">
@@ -161,7 +154,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="Coding Cat" />
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="Coding Cat" />
 </p>
 
 <p align="center">
