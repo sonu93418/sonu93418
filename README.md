@@ -25,7 +25,7 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ---
 
-## 🚀 What I’m Doing
+## 🚀 What I'm Doing
 - Practicing **Data Structures & Algorithms**
 - Building **real-world full-stack projects**
 - Writing **clean, scalable code**
