@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" />
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Developer Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Developer Animation" />
 </p>
 
 <p align="center">
@@ -26,10 +26,6 @@
 </p>
 
 ## 🌐 Connect With Me
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sonu-yadav/" target="_blank">
@@ -53,35 +49,15 @@
 ## 🚀 What I'm Doing
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e86f-640d-4810-b6b9-d6eaf4d4eef1.gif" width="400" alt="Activity Banner" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer Working" />
 </p>
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
-<b>DSA & Algorithms</b><br>
-<em>Daily Practice</em>
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
-<b>Full Stack Projects</b><br>
-<em>Real-World Solutions</em>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
-<b>Clean Code</b><br>
-<em>Best Practices</em>
-</td>
-<td align="center" width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100"><br>
-<b>Open Source</b><br>
-<em>Community Contribution</em>
-</td>
-</tr>
-</table>
+- 💡 Practicing **Data Structures & Algorithms** daily
+- 🔨 Building **real-world full-stack projects** to solve problems
+- ✨ Writing **clean, scalable, and maintainable code**
+- 📚 Learning **new technologies and best practices**
+- 🎯 Contributing to **open source communities**
+- 🚀 Improving **problem-solving skills** continuously
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
@@ -154,7 +130,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sonu93418/sonu93418/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Line Break" />
+</p>
+
+## 💖 Developer Life
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150" alt="Coding Love" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="Debugging" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" alt="Code Works" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Learning" />
+</p>
+
+<p align="center">
+  <em>💡 When code works on first try | 🐞 Finding bugs | ✨ That "Aha!" moment | 📚 Always learning</em>
 </p>
 
 <p align="center">
@@ -172,7 +161,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="Coding Cat" />
+  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="Coding Cat" />
 </p>
 
 <p align="center">
