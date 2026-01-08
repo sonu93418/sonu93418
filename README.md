@@ -10,11 +10,17 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 ## 🌐 Connect With Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"/>
+  </a>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=twitter" height="36"/>
+  <a href="https://x.com/sonuXdev">
+    <img src="https://skillicons.dev/icons?i=twitter" height="36" alt="Twitter"/>
+  </a>
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=gmail" height="36"/>
+  <a href="mailto:sonukumarray1009@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Gmail"/>
+  </a>
 </p>
 
 ---
@@ -23,19 +29,16 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 - Practicing **Data Structures & Algorithms**
 - Building **real-world full-stack projects**
 - Writing **clean, scalable, maintainable code**
-- Improving **problem-solving speed & accuracy**
+- Improving **problem-solving skills**
 
 ---
 
 ## 🧠 DSA & Problem Solving
-
-- Strong focus on **logic building & patterns**
-- Solving problems on **arrays, strings, recursion**
-- Working with **linked lists, stacks & queues**
-- Learning **trees, graphs & dynamic programming**
-- Regular practice for **time & space optimization**
-
-> 🎯 Goal: write **optimal solutions** with clean explanations.
+- Arrays, Strings, Recursion
+- Linked Lists, Stacks, Queues
+- Trees, Graphs (BFS / DFS)
+- Dynamic Programming
+- Focus on **optimal time & space complexity**
 
 ---
 
@@ -57,46 +60,66 @@ I build clean, maintainable web applications and enjoy solving real-world proble
 
 ## 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight&hide_border=true"
-  height="180"
-/>
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+</p>
 
 ---
 
 ## 📚 Programming Languages Usage
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true"
-  height="160"
-/>
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
 ## 🎨 Frontend & Design Tools
 
-<img src="https://skillicons.dev/icons?i=figma,canva,framer" height="36"/>
-<img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="36"/>
-<img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="36"/>
-<img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="36"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva,framer" height="36" alt="Design Tools"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/lottiefiles/00DDB3" height="36" alt="LottieFiles"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="36" alt="Adobe XD"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="36" alt="After Effects"/>
+</p>
 
-_UI/UX • Prototyping • Motion Design • Micro-interactions_
+<p><i>UI/UX • Prototyping • Motion Design • Micro-interactions</i></p>
 
 ---
 
 ## 👨‍💻 Developer Mode
 
-<img
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="150"
-/>
+<p>
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="150"
+    alt="Coding"
+  />
+</p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=00FF99&width=420&lines=Full+Stack+Web+Developer;Problem+Solver;Clean+Code+Mindset;Consistent+Daily+Growth"
-/>
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=00FF99&width=420&lines=Full+Stack+Web+Developer;Problem+Solver;Clean+Code+Mindset;Consistent+Daily+Growth"
+    alt="Typing Animation"
+  />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sonu93418&label=Profile%20Views&pretty=true"/>
+  <img
+    src="https://visitcount.itsvg.in/api?id=sonu93418&label=Profile%20Views&pretty=true"
+    alt="Profile Views"
+  />
 </p>
