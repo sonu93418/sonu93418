@@ -15,7 +15,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sonu-yadav/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -44,77 +44,68 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💻 Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&theme=dark" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&perline=3" />
 </p>
 
 ### 🎨 Frontend
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,bootstrap&theme=dark" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=3" />
 </p>
 
 ### ⚙️ Backend & Databases
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis&theme=dark" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis&perline=3" />
 </p>
 
+</td>
+<td width="50%" valign="top">
+
 ### 🛠️ Developer Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws,vercel,netlify&theme=dark" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws&perline=3" />
 </p>
 
 ### 🎨 Design Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae&theme=dark" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae&perline=3" />
 </p>
 
-<p align="center"><em>✨ UI/UX • Prototyping • Motion Design • Micro-interactions ✨</em></p>
+<p><em>✨ UI/UX • Prototyping • Motion Design ✨</em></p>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sonu93418">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/sonu93418">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=10&border_radius=10"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=10&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/sonu93418">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true&border_radius=10" alt="Contribution Graph" width="95%"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&custom_title=Sonu%20Kumar%20Ray's%20Contribution%20Graph&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area_color=00ff99&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=-1" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="GitHub Trophies" width="90%" />
+</div>
 
 ---
 
