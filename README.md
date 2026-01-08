@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF99&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Sonu+Kumar+Ray;Full+Stack+Web+Developer+%F0%9F%92%BB;Clean+Code+%E2%80%A2+Scalable+Apps" alt="Typing SVG" />
 </p>
@@ -51,34 +52,34 @@
 <td width="50%" valign="top">
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python&perline=3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python&perline=3" alt="Languages" />
 </p>
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=3" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&perline=3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&perline=3" alt="Backend" />
 </p>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws&perline=3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws&perline=3" alt="Tools" />
 </p>
 
 ### 🎨 Design Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae&perline=3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai,ae&perline=3" alt="Design" />
 </p>
 
-<p><em>✨ UI/UX • Prototyping • Motion Design ✨</em></p>
+<p align="center"><em>✨ UI/UX • Prototyping • Motion Design ✨</em></p>
 
 </td>
 </tr>
@@ -89,8 +90,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff99&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -102,7 +103,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
