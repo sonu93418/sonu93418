@@ -19,7 +19,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Clean+Code+%E2%80%A2+Best+Practices+%E2%80%A2+Scalable+Architecture+%E2%9C%A8;%F0%9F%92%A1+Problem+Solver+%E2%80%A2+Creative+Thinker+%E2%80%A2+Fast+Learner+%F0%9F%92%A1;%F0%9F%93%88+Consistency+Over+Motivation+%E2%80%A2+Daily+Progress+%F0%9F%93%88" alt="Subtitle" />
 </p>
-
+      
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonu93418&label=Profile%20Views&color=00ff99&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/sonu93418?label=Followers&style=for-the-badge&color=00ff99&logo=github" alt="Followers" />
