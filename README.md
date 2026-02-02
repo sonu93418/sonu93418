@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=header&text=Sonu%20Kumar%20Ray&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=38" alt="Header" />
 </p>
    
