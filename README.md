@@ -14,7 +14,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" alt="Developer Animation" />
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="180" alt="Developer Working" />
 </p>     
-  
+   
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Clean+Code+%E2%80%A2+Best+Practices+%E2%80%A2+Scalable+Architecture+%E2%9C%A8;%F0%9F%92%A1+Problem+Solver+%E2%80%A2+Creative+Thinker+%E2%80%A2+Fast+Learner+%F0%9F%92%A1;%F0%9F%93%88+Consistency+Over+Motivation+%E2%80%A2+Daily+Progress+%F0%9F%93%88" alt="Subtitle" />
 </p>
