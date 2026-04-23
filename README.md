@@ -1,63 +1,77 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&height=210&text=Sonu%20Kumar%20Ray&fontSize=46&fontAlignY=40&color=0:0f2027,100:2c5364&fontColor=00ffcc&animation=fadeIn"/>
+<!-- SPIDER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sonu%20Kumar%20Ray&fontSize=50&fontAlignY=40&color=0:ff0000,50:8b0000,100:000000&fontColor=ffffff&animation=twinkling"/>
+
+<br/>
 
 <!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00FFCC&center=true&vCenter=true&width=640&lines=Web+%26+App+Developer;Scalable+Systems+%E2%80%A2+Clean+Code;From+Idea+to+Production"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=🕷️+Web+%26+App+Developer;⚡+With+Great+Power+Comes+Great+Responsibility;💻+Building+Scalable+Apps;🔥+Clean+Code+Hero"/>
 
 <br/><br/>
 
-<!-- MINIMAL BADGES -->
-<img src="https://img.shields.io/badge/Focus-Full%20Stack-00ffcc?style=flat-square"/>
-<img src="https://img.shields.io/badge/Build-Clean%20Architecture-0d1117?style=flat-square"/>
-<img src="https://img.shields.io/badge/Learn-Continuous-00ffcc?style=flat-square"/>
+<!-- SPIDER GIF -->
+<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="200"/>
+
+<br/><br/>
+
+<!-- BADGES -->
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mission-Build%20Scalable%20Apps-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power-Clean%20Code-red?style=for-the-badge"/>
 
 <br/><br/>
 
 <!-- SOCIAL -->
 <a href="https://www.linkedin.com/in/sonu-kumar-ray-87b886281/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-ff0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://x.com/sonuXdev">
-  <img src="https://skillicons.dev/icons?i=twitter" />
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 <a href="mailto:sonukumarray1009@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/sonu93418">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<h2>🧑‍💻 About</h2>
+<!-- SPIDER DIVIDER -->
+<p align="center">
+<img src="https://media.giphy.com/media/xT0GqeSlGSRQutP3zi/giphy.gif" width="100%"/>
+</p>
+
+<h2>🕷️ About Me</h2>
+
 <p>
-I build performant web & mobile applications with a focus on scalability, clean architecture, and real-world impact.
+Like Spider-Man, I believe with great power comes great responsibility — especially in writing code.
+I focus on building scalable, efficient, and impactful applications.
 </p>
 
 <ul>
-<li>🚀 Full Stack Developer</li>
-<li>⚡ Scalable system design</li>
-<li>🧠 Strong in DSA & problem solving</li>
-<li>🔥 Consistency-driven mindset</li>
+<li>🕸️ Full Stack Developer</li>
+<li>⚡ Focus on performance & scalability</li>
+<li>🧠 Strong problem-solving mindset</li>
+<li>🔥 Consistency over motivation</li>
 </ul>
 
 ---
 
-<h2>⚡ What I Do</h2>
+<h2>⚡ My Superpowers</h2>
 
 <table>
-<tr><td>🚀 Build scalable apps</td><td>💡 Solve real problems</td></tr>
-<tr><td>🧠 Practice DSA</td><td>⚡ Optimize performance</td></tr>
-<tr><td>🌱 Continuous learning</td><td>🔥 Clean architecture</td></tr>
+<tr><td>🕷️ Build scalable systems</td><td>💡 Solve complex problems</td></tr>
+<tr><td>⚡ Optimize performance</td><td>🧠 DSA mastery</td></tr>
+<tr><td>🌐 Full-stack development</td><td>🔥 Clean architecture</td></tr>
 </table>
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Arsenal</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python" /><br/><br/>
@@ -68,33 +82,19 @@ I build performant web & mobile applications with a focus on scalability, clean 
 
 ---
 
-<h2>⭐ Featured Projects</h2>
+<h2>🕸️ Featured Projects</h2>
 
 <table>
 <tr>
 <td width="50%">
-<b>🛒 E-Commerce Platform</b><br/>
-Full-stack app with authentication, payments, and admin dashboard.<br/>
+<b>🛒 Web Store</b><br/>
+Scalable e-commerce platform<br/>
 <a href="#">🔗 Live</a> • <a href="#">💻 Code</a>
 </td>
 
 <td width="50%">
-<b>📊 Dashboard System</b><br/>
-Real-time analytics dashboard with charts and role-based access.<br/>
-<a href="#">🔗 Live</a> • <a href="#">💻 Code</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<b>🌐 Client Website</b><br/>
-Production-ready website with optimized performance & SEO.<br/>
-<a href="#">🔗 Live</a> • <a href="#">💻 Code</a>
-</td>
-
-<td width="50%">
-<b>⚙️ API Backend</b><br/>
-REST API with authentication, caching, and scalable structure.<br/>
+<b>📊 Dashboard</b><br/>
+Real-time analytics system<br/>
 <a href="#">🔗 Live</a> • <a href="#">💻 Code</a>
 </td>
 </tr>
@@ -102,19 +102,23 @@ REST API with authentication, caching, and scalable structure.<br/>
 
 ---
 
-<h2>📊 Contribution</h2>
+<h2>📊 Contribution Graph</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
 <h2>🧠 Philosophy</h2>
-<p align="center"><i>"Consistency beats talent when talent doesn't stay consistent."</i></p>
+
+<p align="center">
+<i>"With great power comes great responsibility."</i>
+</p>
 
 ---
 
+<!-- FOOTER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=140&section=footer"/>
 </div>
