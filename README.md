@@ -1,26 +1,20 @@
 <div align="center">
 
-<!-- SPIDER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Sonu%20Kumar%20Ray&fontSize=50&fontAlignY=40&color=0:ff0000,50:8b0000,100:000000&fontColor=ffffff&animation=twinkling"/>
+<!-- TOP FLYING SPIDERMAN -->
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120"/>
+
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sonu%20Kumar%20Ray&fontSize=48&fontAlignY=40&color=0:ff0000,50:8b0000,100:000000&fontColor=ffffff"/>
+
+<!-- TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=650&lines=🕷️+Web+%26+App+Developer;⚡+Build+Fast+%26+Scalable+Apps;🔥+Clean+Code+Only"/>
 
 <br/>
 
-<!-- TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=700&lines=🕷️+Web+%26+App+Developer;⚡+With+Great+Power+Comes+Great+Responsibility;💻+Building+Scalable+Apps;🔥+Clean+Code+Hero"/>
+<!-- HERO SPIDERMAN -->
+<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="180"/>
 
-<br/><br/>
-
-<!-- SPIDER GIF -->
-<img src="https://media.giphy.com/media/3ohhwytHcusSCXXOUg/giphy.gif" width="200"/>
-
-<br/><br/>
-
-<!-- BADGES -->
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mission-Build%20Scalable%20Apps-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power-Clean%20Code-red?style=for-the-badge"/>
-
-<br/><br/>
+<br/>
 
 <!-- SOCIAL -->
 <a href="https://www.linkedin.com/in/sonu-kumar-ray-87b886281/">
@@ -32,77 +26,38 @@
 <a href="mailto:sonukumarray1009@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/sonu93418">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 </div>
 
 ---
 
-<!-- SPIDER DIVIDER -->
+<!-- FLYING DIVIDER -->
 <p align="center">
 <img src="https://media.giphy.com/media/xT0GqeSlGSRQutP3zi/giphy.gif" width="100%"/>
 </p>
 
-<h2>🕷️ About Me</h2>
-
-<p>
-Like Spider-Man, I believe with great power comes great responsibility — especially in writing code.
-I focus on building scalable, efficient, and impactful applications.
-</p>
+<h2>🕷️ About</h2>
 
 <ul>
-<li>🕸️ Full Stack Developer</li>
-<li>⚡ Focus on performance & scalability</li>
-<li>🧠 Strong problem-solving mindset</li>
-<li>🔥 Consistency over motivation</li>
+<li>🚀 Full Stack Developer</li>
+<li>⚡ Scalable Apps</li>
+<li>🧠 Problem Solver</li>
+<li>🔥 Clean Code</li>
 </ul>
 
 ---
 
-<h2>⚡ My Superpowers</h2>
-
-<table>
-<tr><td>🕷️ Build scalable systems</td><td>💡 Solve complex problems</td></tr>
-<tr><td>⚡ Optimize performance</td><td>🧠 DSA mastery</td></tr>
-<tr><td>🌐 Full-stack development</td><td>🔥 Clean architecture</td></tr>
-</table>
-
----
-
-<h2>🛠️ Tech Arsenal</h2>
+<h2>🛠️ Tech</h2>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python" /><br/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,aws" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" />
 </p>
 
 ---
 
-<h2>🕸️ Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%">
-<b>🛒 Web Store</b><br/>
-Scalable e-commerce platform<br/>
-<a href="#">🔗 Live</a> • <a href="#">💻 Code</a>
-</td>
-
-<td width="50%">
-<b>📊 Dashboard</b><br/>
-Real-time analytics system<br/>
-<a href="#">🔗 Live</a> • <a href="#">💻 Code</a>
-</td>
-</tr>
-</table>
-
----
-
-<h2>📊 Contribution Graph</h2>
+<h2>📊 Graph</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true"/>
@@ -110,15 +65,11 @@ Real-time analytics system<br/>
 
 ---
 
-<h2>🧠 Philosophy</h2>
-
-<p align="center">
-<i>"With great power comes great responsibility."</i>
-</p>
-
----
-
-<!-- FOOTER -->
+<!-- FOOTER SPIDERMAN -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=140&section=footer"/>
+
+<img src="https://media.giphy.com/media/l0HlQ7LRal6MsoC8k/giphy.gif" width="140"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=120&section=footer"/>
+
 </div>
