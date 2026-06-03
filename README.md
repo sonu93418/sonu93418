@@ -1,14 +1,14 @@
-<!-- HEADER -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Sonu%20Kumar%20Ray&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=62&descAlign=50&descSize=18&descColor=00ff99" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Sonu%20Kumar%20Ray&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38" />
 </p>
 
-<!-- TYPING SVG -->
+<h3 align="center">Full Stack &amp; Mobile App Developer</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=750&height=60&lines=🚀+Full+Stack+Web+Developer;📱+Mobile+App+Developer;💡+Clean+Code+%7C+Scalable+Architecture;✨+Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=750&height=55&lines=🚀+Full+Stack+Web+Developer;📱+Mobile+App+Developer+%28React+Native+%7C+Flutter%29;💡+Clean+Code+%7C+Scalable+Architecture;✨+Turning+Ideas+Into+Reality" />
 </p>
 
-<!-- BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonu93418&label=Profile+Views&color=00ff99&style=for-the-badge" />
   &nbsp;
@@ -17,84 +17,85 @@
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-00ff99?style=for-the-badge" />
 </p>
 
----
+<br/>
 
-## 🌐 Connect With Me
+<!-- ═══════════════ CONNECT ═══════════════ -->
+<h2>🌐 Connect With Me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/sonu-yadav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://x.com/sonuXdev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:sonukumarray1009@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://github.com/sonu93418"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://dev.to/"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sonu-yadav/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://x.com/sonuXdev">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:sonukumarray1009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/sonu93418">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://dev.to/">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
+<h2>👨‍💻 About Me</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-**🌐 Web Development**
-
-- 🔨 Building scalable full-stack web apps
-- ✨ Writing clean & maintainable code
-- 🧠 Practicing DSA & System Design daily
-- 🎯 Contributing to open source
-
+<h3>🌐 Web Development</h3>
+<ul>
+  <li>🔨 Building scalable full-stack web apps</li>
+  <li>✨ Writing clean &amp; maintainable code</li>
+  <li>🧠 Practicing DSA &amp; System Design daily</li>
+  <li>🎯 Contributing to open source</li>
+</ul>
 </td>
 <td width="50%" valign="top">
-
-**📱 Mobile Development**
-
-- 📲 Crafting cross-platform mobile apps
-- 🔥 React Native & Flutter enthusiast
-- 🗺️ Maps, sensors & real-time integrations
-- 🏪 Published on App Store & Google Play
-
+<h3>📱 Mobile Development</h3>
+<ul>
+  <li>📲 Crafting cross-platform mobile apps</li>
+  <li>🔥 React Native &amp; Flutter enthusiast</li>
+  <li>🗺️ Maps, sensors &amp; real-time integrations</li>
+  <li>🏪 Deployed on App Store &amp; Google Play</li>
+</ul>
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+<h2>🛠️ Tech Stack</h2>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 💻 Languages
-
+<h3>💻 Languages</h3>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python&perline=6" />
 
----
+<br/><br/>
 
-### 🎨 Frontend — Web
-
+<h3>🎨 Frontend — Web</h3>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&perline=6" />
 
----
+<br/><br/>
 
-### ⚙️ Backend & Databases
-
+<h3>⚙️ Backend &amp; Databases</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis&perline=6" />
 
 </td>
 <td width="50%" valign="top" align="center">
 
-### 📱 Mobile Development
-
+<h3>📱 Mobile Development</h3>
 <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,firebase&perline=6" />
-
 <br/>
-
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
@@ -102,25 +103,24 @@
 <img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white" />
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white" />
 
----
+<br/><br/>
 
-### 🛠️ Tools & DevOps
-
+<h3>🛠️ Tools &amp; DevOps</h3>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode&perline=6" />
 
----
+<br/><br/>
 
-### 🎨 Design
-
+<h3>🎨 Design</h3>
 <img src="https://skillicons.dev/icons?i=figma,xd,ps,ai&perline=6" />
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Stats
+<!-- ═══════════════ GITHUB STATS ═══════════════ -->
+<h2>📊 GitHub Stats</h2>
 
 <table width="100%">
 <tr>
@@ -141,37 +141,35 @@
 </tr>
 </table>
 
----
+<br/>
 
-## 📈 Contribution Graph
+<!-- ═══════════════ CONTRIBUTION GRAPH ═══════════════ -->
+<h2>📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true&custom_title=Sonu%27s%20Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu93418&bg_color=0d1117&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<!-- ═══════════════ SNAKE ═══════════════ -->
+<h2>🐍 Contribution Snake</h2>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sonu93418/sonu93418/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sonu93418/sonu93418/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sonu93418/sonu93418/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/sonu93418/sonu93418/output/github-snake.svg" />
   </picture>
 </p>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
+<!-- ═══════════════ FOOTER ═══════════════ -->
 <p align="center">
   <strong>🚀 Let's connect and build something amazing — Web · Mobile · Cloud 🚀</strong>
 </p>
 
-<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=18&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=18&fontColor=ffffff&animation=twinkling" />
 </p>
