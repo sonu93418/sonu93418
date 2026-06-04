@@ -107,20 +107,7 @@
 ### 📝 Top Languages
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=github_dark&hide_border=true&title_color=00ff99&text_color=c9d1d9&bg_color=0d1117&langs_count=6" width="100%" />
 
-### 🎯 2026 Goals
 
-| Goal | Status |
-|------|--------|
-| 🚀 Build 50+ Projects | 🔄 In Progress |
-| 🧠 LeetCode 500+ Problems | 🔄 In Progress |
-| 🏗️ 10+ System Design Case Studies | 📋 Planned |
-| ☁️ AWS Solutions Architect | 📋 Planned |
-| 🤖 AI/ML Integration in Projects | 📋 Planned |
-| ⭐ Contribute to Major Open Source | 🔄 In Progress |
-
-</td>
-</tr>
-</table>
 
 ---
 
