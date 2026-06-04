@@ -102,13 +102,21 @@
 <img src="https://streak-stats.demolab.com/?user=sonu93418&theme=github-dark-blue&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&background=0d1117&sideLabels=00ff99&dates=c9d1d9" width="100%" />
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sonu93418&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&bg_color=0d1117&count_private=true&rank_icon=github&cache_seconds=7200" width="100%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=sonu93418&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9&bg_color=0d1117&count_private=true&rank_icon=github" width="100%" />
 
 ### 📝 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=github_dark&hide_border=true&title_color=00ff99&text_color=c9d1d9&bg_color=0d1117&langs_count=6&cache_seconds=7200" width="100%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sonu93418&layout=compact&theme=github_dark&hide_border=true&title_color=00ff99&text_color=c9d1d9&bg_color=0d1117&langs_count=6" width="100%" />
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=sonu93418&theme=darkhub&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="100%" />
+### 🎯 2026 Goals
+
+| Goal | Status |
+|------|--------|
+| 🚀 Build 50+ Projects | 🔄 In Progress |
+| 🧠 LeetCode 500+ Problems | 🔄 In Progress |
+| 🏗️ 10+ System Design Case Studies | 📋 Planned |
+| ☁️ AWS Solutions Architect | 📋 Planned |
+| 🤖 AI/ML Integration in Projects | 📋 Planned |
+| ⭐ Contribute to Major Open Source | 🔄 In Progress |
 
 </td>
 </tr>
