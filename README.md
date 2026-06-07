@@ -77,7 +77,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="38"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="38"/>
-</p>
+</p> 
 
 ### 🔧 Tools & DevOps
 <p>
