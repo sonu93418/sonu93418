@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SONU%20KUMAR%20RAY&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%7C%20Mobile%20%7C%20DSA%20%7C%20AI&descAlignY=52&descSize=18&descColor=fff"/>
-
+ 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=17&duration=2800&pause=900&color=00FF99&center=true&vCenter=true&width=500&height=30&lines=Full+Stack+Web+Developer;Mobile+App+Developer;DSA+%7C+System+Design+Builder;AI+Explorer+%7C+Open+Source+Contributor" />
 
 <p>
